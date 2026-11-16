@@ -19,7 +19,28 @@ npx skills add pritam-dey3/my-skills -g -a universal -y
 ```
 
 The command uses the [Vercel Skills CLI](https://github.com/vercel-labs/skills).
+
 ## Collection
+
+The collection is mostly Matt Pocock's skills, plus a few SEO skills from
+Corey Haines. Everything else is listed below.
+
+- **Matt Pocock's skills** from
+  [mattpocock/skills](https://github.com/mattpocock/skills): `ask-matt`,
+  `chief-of-staff`, `claude-handoff`, `code-review`, `codebase-design`,
+  `diagnosing-bugs`, `domain-modeling`, `git-guardrails-claude-code`,
+  `grill-me`, `grill-with-docs`, `grilling`, `handoff`, `implement`,
+  `implement-spec`, `improve-codebase-architecture`, `loop-me`,
+  `migrate-to-shoehorn`, `pr`, `prototype`, `research`, `retro`,
+  `scaffold-exercises`, `setup-pre-commit`, `setup-ts-deep-modules`, `tdd`,
+  `teach`, `to-questionnaire`, `to-spec`, `to-tickets`, `triage`, `wait-what`,
+  `wayfinder`, `wizard`, `writing-beats`, `writing-for-agents`,
+  `writing-fragments`, `writing-shape`.
+- **SEO skills** from
+  [Corey Haines' marketingskills](https://github.com/coreyhaines31/marketingskills):
+  `ai-seo`, `seo-audit`, `schema`.
+
+### Other skills
 
 | Skill | Purpose | Origin |
 | --- | --- | --- |
